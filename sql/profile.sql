@@ -1,0 +1,11 @@
+INSERT INTO `profile` VALUES (5, '优惠券', 'www', '23', '44', '55', '111', '2019-2-12 14:02:57');
+INSERT INTO `profile` VALUES (6, '充值', 'sadjksad', '23', '45', '555', 'qwerf', '2019-2-12 14:03:46');
+INSERT INTO `profile` VALUES (8, '提现', '提现', '20', '80', '9999999', 'meiqian ', '2019-2-12 14:06:41');
+INSERT INTO `profile` VALUES (9, '优惠券', 'wwww', '50', '950', '7777', 'meiqian', '2019-2-12 14:08:17');
+INSERT INTO `profile` VALUES (10, '转账', 'meiyou', '80', '90', '8888', 'meiyou', '2019-2-12 14:11:58');
+INSERT INTO `profile` VALUES (11, '提现手续费', '最后一次', '7777', '66666', '5555555', 'dasdsd', '2019-2-12 14:17:12');
+INSERT INTO `profile` VALUES (12, '满减卷', '买衣服', '200', '200', '100', '没什么好说的', '2019-2-12 23:08:35');
+INSERT INTO `profile` VALUES (13, '转账', 'wuwuwu', '2222', '5555', '6666', '呜呜呜呜呜', '2019-2-12 23:30:43');
+INSERT INTO `profile` VALUES (14, '转账', 'ceshi', '123', '456', '1111', 'ceshi', '2019-2-13 02:17:40');
+INSERT INTO `profile` VALUES (15, '优惠券', 'zai ce shi ', '222', '444', '555', 'zailaiyici', '2019-2-13 02:18:00');
+INSERT INTO `profile` VALUES (16, '充值礼券', 'zheshi 11 tiao', '888', '999', '68987987', '第十一条', '2019-2-13 02:22:11');

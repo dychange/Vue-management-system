@@ -1,0 +1,3 @@
+INSERT INTO `users` VALUES (1, 'xgChange', '15697407301@163.com', '$2a$10$RxgKprMp.fR3BRMtF08o0u8DDsAElWnonS10hpPrW5gxlA6WbXd96', '2019-2-9 22:25:51', 'http://www.gravatar.com/avatar/51db544095cbb4b7827161a19c75a82f?s=200&r=pg&d=mm', 'manager');
+INSERT INTO `users` VALUES (2, '小明', 'xiaoming@qq.com', '$2a$10$4avqoBvoJkbNkPuo87A6EuHE5RwdExOYryvkzP7JyHdIghAnpkdtG', '2019-2-10 00:08:56', 'http://www.gravatar.com/avatar/2ff7fbaacebda80fa6e640607a24c28f?s=200&r=pg&d=mm', 'employee');
+INSERT INTO `users` VALUES (3, '段老B', 'duanlaoB@163.com', '$2a$10$2srF3IOFMZ6p9ogBU1qDFe/zF1yJbam6tQfGhkslg9JS3wYugPh7O', '2019-2-13 22:22:25', 'http://www.gravatar.com/avatar/5a0e1e33904ac30fd2b440a82143bf00?s=200&r=pg&d=mm', 'employee');
