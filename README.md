@@ -7,7 +7,10 @@ Vue-cli 3.0 / Express
 
 ## Project setup
 ```
-npm install
+1. cd node-app
+2. npm install
+3. cd client
+4. npm install
 ```
 
 ### Compiles and hot-reloads for development
