@@ -7,6 +7,7 @@ Vue-cli 3.0 / Express
 
 ## Project setup
 ```
+前后端连载了，所以两次npm install
 1. cd node-app
 2. npm install
 3. cd client
